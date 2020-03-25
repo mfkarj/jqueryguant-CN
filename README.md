@@ -9,6 +9,7 @@
   this.permissions.cannotCloseTaskIfIssueOpen = project.cannotCloseTaskIfIssueOpen;
   this.permissions.canAddIssue = project.canAddIssue;
   this.permissions.canDelete = project.canDelete;
+  
 修改为：
 
   ({
